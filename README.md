@@ -1,1 +1,1 @@
-# resource
+# UICHCC Resources
